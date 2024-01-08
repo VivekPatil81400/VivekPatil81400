@@ -1,6 +1,5 @@
 ### Hi there, I am Vivek👋
 
-<!--
 I am a Python Backend Developer based in Paris, France. With a passion for building robust and scalable backend solutions, I am dedicated to creating efficient and maintainable code. My goal is to contribute to projects that make a positive impact and push the boundaries of what technology can achieve.
 
 ## 🚀 My Skills
@@ -21,4 +20,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->

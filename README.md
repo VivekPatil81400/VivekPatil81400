@@ -1,7 +1,15 @@
-### Hi there 👋
+### Hi there, I am Vivek👋
 
 <!--
-**VivekPatil81400/VivekPatil81400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Python Backend Developer based in Paris, France. With a passion for building robust and scalable backend solutions, I am dedicated to creating efficient and maintainable code. My goal is to contribute to projects that make a positive impact and push the boundaries of what technology can achieve.
+
+## 🚀 My Skills
+
+- **Languages:** Python, SQL
+- **Web Frameworks:** Django, Flask
+- **Database:** PostgreSQL, MySQL
+- **APIs:** RESTful APIs, GraphQL
+- **Tools & Technologies:** Git, Docker, SQLAlchemy
 
 Here are some ideas to get you started:
 
